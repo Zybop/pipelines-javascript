@@ -10,6 +10,7 @@ For information on how to use this repository, see [JavaScript](https://docs.mic
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-dockerhub-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=10) |
 | Build image and push to Azure Container Registry | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-acr)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=11) |
 | Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-acr-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=12) |
+| Build from Azure DevOps | [![Build Status](https://dev.azure.com/stianrn/Change%20Management%20Pipeline/_apis/build/status/Zybop.pipelines-javascript)](https://dev.azure.com/stianrn/Change%20Management%20Pipeline/_build/latest?definitionId=1) |
 
 # Contributing
 
